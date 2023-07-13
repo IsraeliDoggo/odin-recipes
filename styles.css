@@ -1,0 +1,22 @@
+.recipe{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+img{
+    width: 500px;
+    border-radius: 10px;
+}
+
+#spagetti{
+    font: bold;
+    font-size: 75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+img.spagetti{
+    transform: rotate(90deg);
+    margin-left: 100px;
+    margin-top: -100px;
+    margin-bottom: -50px;
+}
